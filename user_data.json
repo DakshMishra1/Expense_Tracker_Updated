@@ -1,0 +1,168 @@
+{
+  "Daksh Mishra": {
+    "Total Amount": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Food": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Stationary": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Clothes": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Other": {
+      "limit": 0,
+      "expenses": []
+    }
+  },
+  "Daksh": {
+    "Total Amount": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Food": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Stationary": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Clothes": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Other": {
+      "limit": 0,
+      "expenses": []
+    }
+  },
+  "piyush": {
+    "Total Amount": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Food": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Stationary": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Clothes": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Other": {
+      "limit": 0,
+      "expenses": []
+    }
+  },
+  "daksh": {
+    "Total Amount": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Food": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Stationary": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Clothes": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Other": {
+      "limit": 0,
+      "expenses": []
+    }
+  },
+  "testuser": {
+    "Total Amount": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Food": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Stationary": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Clothes": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Other": {
+      "limit": 0,
+      "expenses": []
+    }
+  },
+  "testwebuser": {
+    "Total Amount": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Food": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Stationary": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Clothes": {
+      "limit": 0,
+      "expenses": []
+    },
+    "Other": {
+      "limit": 0,
+      "expenses": []
+    }
+  },
+  "Amit": {
+    "Total Amount": {
+      "limit": 3000.0,
+      "expenses": []
+    },
+    "Food": {
+      "limit": 1000.0,
+      "expenses": [
+        {
+          "item": "Breakfast",
+          "amount": 150.0,
+          "date": "2026-05-06"
+        }
+      ]
+    },
+    "Stationary": {
+      "limit": 500.0,
+      "expenses": []
+    },
+    "Clothes": {
+      "limit": 1000.0,
+      "expenses": []
+    },
+    "Other": {
+      "limit": 500.0,
+      "expenses": [
+        {
+          "item": "Earphones",
+          "amount": 270.0,
+          "date": "2026-05-06"
+        }
+      ]
+    }
+  }
+}

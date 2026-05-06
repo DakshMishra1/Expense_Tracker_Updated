@@ -1,0 +1,23 @@
+{
+    "Daksh Mishra": {
+        "password": "scrypt:32768:8:1$xBtkq9teM5NacpxI$c7a632afe2bf947341c3d71c5ddbe8dd1d7f56cade684112b5cec889ff341d2d2756bdfc0b6c169a71208f111850e35b5ccfcf402e6cc1543d8a3d86aef742dc"
+    },
+    "Daksh": {
+        "password": "scrypt:32768:8:1$K5fVm4daHaSbt4tm$5bc2f12697fa2829a31742a5ff7712b3b07f23653bdd5124665e5fbbcac7bec2acc36b6b15dc7ea5e0da256f7293cc9844aa74a84396a2c75baaf2aa4f1f8489"
+    },
+    "piyush": {
+        "password": "scrypt:32768:8:1$zu8zqddMKfQ6SUyN$745a807cd7d316c4a1f119478ffaab66c74904292d94d7aae27b0ec9566659dfe8d5642a56db1bc3ad7f97d54ffd2a65689a315c03566ebbf365c14d201dc86e"
+    },
+    "daksh": {
+        "password": "scrypt:32768:8:1$dNCIbElYxUVGUehj$452297be9a360e855c8a90ef68e82212cad9a107e13cef16f588224ba010b7f8cd7d02cf3f99bceac123e4a65cea302eb74271698d26225c096047b23c96021d"
+    },
+    "testuser": {
+        "password": "scrypt:32768:8:1$RgYYDP8N0Sy60YIf$2a6414a68c80f54da7d03116205725d9d14ac3133dd2d9f699071284f9b8518ca65bbf9abe1e8b72e182b4498704adec8b14e3c81ca68b35301f21565aff2ef6"
+    },
+    "testwebuser": {
+        "password": "scrypt:32768:8:1$GmwReDmfFaxKWdWx$68265b99412cfc8db8003637c0cc0b1d9f9a0f15331ce0ea7b3bb10db9dcdd19efdbcf93f31b987dccccd8645ad8083ed3e7025aeb7c90591b8377fd060b4acf"
+    },
+    "Amit": {
+        "password": "scrypt:32768:8:1$dLUcsKj0LnzneawG$a43081ccfdd583ad990643fb09e1a19c943115da3ddf9a714ba53a468d52138ec4eb79a7bb3d62364e56c3248cdb7d4cd306ff8fab45e8d4a1592d21d30e7592"
+    }
+}
